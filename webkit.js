@@ -38,7 +38,7 @@ function toggle_payload(pld){
 		document.getElementById("progress").innerHTML="Loading MIRA+SPOOF.. Please wait..";
 		preloadScripts(['mira2.js','jsloader.js']);
 	}else if(pld == "BeefQueefMod133"){
-		document.getElementById("progress").innerHTML="Loading BeefQueefMod133.. Please wait..";
+		document.getElementById("progress").innerHTML="Loading Gta 5 BeefQueefMod 1.33.. Please wait..";
 		preloadScripts(['BeefQueefMod133.js','jsloader.js']);
 	}else if(pld == "backup"){
 		document.getElementById("progress").innerHTML="Loading Payload.. Please wait..";
@@ -73,9 +73,9 @@ function toggle_payload(pld){
 	}else if(pld == "disableaslr"){
 		document.getElementById("progress").innerHTML="Loading Payload.. Please wait..";
 		preloadScripts(['disableaslr.js','jsloader.js']);
-	}else if(pld == "kerneldumper"){
-		document.getElementById("progress").innerHTML="Loading Payload.. Please wait..";
-		preloadScripts(['kerneldumper.js','jsloader.js']);
+	}else if(pld == "rdr2mod124"){
+		document.getElementById("progress").innerHTML="Loading Rdr2 Mod Please wait..";
+		preloadScripts(['rdr2mod124.js','jsloader.js']);
 	}else if(pld == "kernelclock"){
 		document.getElementById("progress").innerHTML="Loading Payload.. Please wait..";
 		preloadScripts(['kernelclock.js','jsloader.js']);
